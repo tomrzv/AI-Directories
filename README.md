@@ -1,8 +1,39 @@
 # List of AI Tools Directories
-Welcome to the AI ​​Tool Directory!
-This is a curated collection of AI tool directories designed to simplify the process of finding and submitting your AI tools.
-Want to contribute or add your product? Submit a request to this repository—it's free! 
-Join my growing list of AI tools and stay at the forefront of innovation.
+
+**An alphabetically organized collection of AI tool directories, listing sites, and discovery platforms where founders can submit AI products, gain visibility, earn backlinks, and reach new users.**
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#-contributing)
+[![GitHub Stars](https://img.shields.io/github/stars/yourname/list-of-ai-tools-directories?style=flat-square&color=yellow)](../../stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+**Submit smarter · Increase visibility · Get backlinks · Reach AI users**
+
+> A curated alphabetical list of AI directories and listing platforms for AI startups, SaaS products, assistants, agents, generators, APIs, and productivity tools.
+
+---
+
+## About
+
+Launching an AI product is only half the job.  
+The other half is making sure people can actually find it.
+
+**List of AI Tools Directories** is a public GitHub repository that collects websites where AI products can be submitted, discovered, browsed, and promoted.
+
+This repository is designed to help:
+
+- AI founders
+- indie makers
+- SaaS builders
+- marketers
+- SEO specialists
+- growth teams
+
+find relevant AI directories in one place without searching manually across dozens of sites.
+
+All directories are listed **alphabetically** for simple browsing and maintenance.
+
+---
 
 | Site Name | Domain |
 |---|---|
@@ -303,3 +334,83 @@ Join my growing list of AI tools and stay at the forefront of innovation.
 | **Woi AI** | [woy.ai](https://woy.ai) |
 | **Yet Another AI Tool Directory** | [yaatd.com](https://yaatd.com) |
 | **Your Story** | [yourstory.com](https://yourstory.com) |
+
+## Why this repo is useful
+
+- find AI directories faster
+- submit your AI product to more platforms
+- improve discoverability
+- collect relevant backlinks
+- build referral traffic
+- keep a clean public list in one place
+- expand your launch and SEO workflow
+
+---
+
+## Who this repository is for
+
+This repo is useful for:
+
+- AI tool founders
+- startup marketers
+- solo builders
+- SEO link builders
+- affiliate site owners
+- directory curators
+- anyone promoting AI products online
+
+---
+
+## Suggested structure
+
+You can keep the repository simple with one main alphabetical table, or expand it later with optional sections such as:
+
+- Featured AI Directories
+- Recently Added
+- Free Submission Directories
+- Paid Submission Directories
+- High Authority Directories
+- Niche AI Directories
+- AI Agent Directories
+- AI Image Tool Directories
+- AI Writing Tool Directories
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+To add a new directory:
+
+1. Fork this repository
+2. Add the site in alphabetical order
+3. Include the site name and domain
+4. Make sure it is not already listed
+5. Open a pull request
+
+### Contribution Guidelines
+
+- Only include active websites
+- Keep names clean and consistent
+- Avoid duplicates
+- Use the main public domain
+- Prefer AI-focused directories over generic software lists
+- Do not add spammy or abandoned websites
+
+---
+
+## Maintainers
+
+This repository is maintained as a practical resource for founders and marketers promoting AI products.
+
+You can replace this section with your own brand or profile:
+
+> Maintained by **Your Name / Brand**  
+> Suggestions and pull requests are welcome
+
+---
+
+## License
+
+MIT
