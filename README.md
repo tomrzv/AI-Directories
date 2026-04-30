@@ -204,6 +204,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **GPT Academy** | [gptacademy.co](https://www.gptacademy.co) |
 | **GPTE** | [gpte.ai](https://gpte.ai) |
 | **Gpt Forge** | [gptforge.net](https://gptforge.net) |
+| **GPTs Store Top** | [gptsstore.top](https://gptsstore.top) |
 | **GPTs Hunter** | [gptshunter.com](https://www.gptshunter.com) |
 | **Grabon AI Directory** | [grabon.in](https://www.grabon.in) |
 | **GroupifyAI** | [groupify.ai](https://groupify.ai) |
@@ -258,6 +259,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Product Hunt** | [producthunt.com](https://www.producthunt.com) |
 | **Productivity Tools** | [productivity.directory](https://productivity.directory) |
 | **PureFuture** | [purefuture.net](https://purefuture.net) |
+| **R-AI Dev** | [r-ai.dev](https://r-ai.dev) |
 | **Resource fyi** | [resource.fyi](https://resource.fyi) |
 | **Saas AI Tools** | [saasaitools.com](https://saasaitools.com) |
 | **SaasBaba** | [saasbaba.com](https://saasbaba.com) |
@@ -292,17 +294,20 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Stratup.ai** | [stratup.ai](https://stratup.ai) |
 | **AI Tools Submit** | [submitaitools.org](https://submitaitools.org) |
 | **Synoptica** | [synoptica.com](https://synoptica.com) |
-| **Submit** | [tally.so](https://tally.so) |
+| **Tally.so** | [tally.so](https://tally.so) |
+| **Taily AI** | [tailyai.co](https://tailyai.co) |
 | **Tekpon** | [tekpon.com](https://tekpon.com) |
 | **Submit** | [thataicollection.com](https://www.thataicollection.com) |
 | **ThatsMyAI** | [thatsmy.ai](https://thatsmy.ai) |
 | **The ai Generation** | [theaigeneration.com](https://www.theaigeneration.com) |
 | **AI Library** | [theailibrary.co](https://www.theailibrary.co) |
+| **Thank John** | [thankjohn.com](https://thankjohn.com) |
 | **theaisurf** | [theaisurf.com](https://theaisurf.com) |
 | **The Hack Stack** | [thehackstack.com](https://thehackstack.com) |
 | **Startup Pitch** | [thestartuppitch.com](https://thestartuppitch.com) |
 | **TipSeason** | [tipseason.com](https://tipseason.com) |
 | **Tool AI** | [toolai.io](https://toolai.io) |
+| **Toolb** | [toolb.dev](https://toolb.dev) |
 | **Tool Directory** | [tooldirectory.ai](https://tooldirectory.ai) |
 | **ToolDirs** | [tooldirs.com](https://tooldirs.com) |
 | **Toolify.ai** | [toolify.ai](https://www.toolify.ai) |
@@ -320,6 +325,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Tools Nocode** | [toolsnocode.com](https://www.toolsnocode.com) |
 | **Toolspedia** | [toolspedia.io](https://www.toolspedia.io) |
 | **Toolwave.io** | [toolwave.io](https://www.toolwave.io) |
+| **Tool Board** | [toolboard.org](https://toolboard.org) |
 | **TopAI.tools** | [topai.tools](https://topai.tools) |
 | **Top AI Tools Hub** | [topaitoolshub.com](https://www.topaitoolshub.com) |
 | **Top Apps AI** | [topapps.ai](https://topapps.ai) |
@@ -334,6 +340,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Woi AI** | [woy.ai](https://woy.ai) |
 | **Yet Another AI Tool Directory** | [yaatd.com](https://yaatd.com) |
 | **Your Story** | [yourstory.com](https://yourstory.com) |
+| **Zen99** | [zen99.co](https://zen99.co) |
 
 ## Why this repo is useful
 
