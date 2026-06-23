@@ -62,6 +62,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **AiMatchPro** | [aimatch.pro](https://aimatch.pro) |
 | **ainave** | [ainave.com](https://www.ainave.com) |
 | **AI Parabellum** | [aiparabellum.com](https://aiparabellum.com) |
+| **AIPower.spot** - This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI). | [aipower.spot](https://aipower.spot) |
 | **AI Pulse** | [aipulse.fyi](https://www.aipulse.fyi) |
 | **AI Respo** | [airespo.com](https://airespo.com) |
 | **AISuperSmart** | [aisupersmart.com](https://www.aisupersmart.com) |
