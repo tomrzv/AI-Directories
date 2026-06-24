@@ -50,6 +50,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **AIDir** | [aidir.wiki](https://aidir.wiki) |
 | **AI Directory** | [aidirectory.wiki](https://aidirectory.wiki) |
 | **AiDirs** | [aidirs.best](https://aidirs.best) |
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 | **Submit** | [aidude.info](https://aidude.info) |
 | **Educator Tools** | [aieducator.tools](https://aieducator.tools) |
 | **AI For Developers** | [aifordevelopers.org](https://aifordevelopers.org) |
