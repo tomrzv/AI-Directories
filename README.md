@@ -215,6 +215,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **AI Tools Submit** | [submitaitools.org](https://submitaitools.org) |
 | **Tally.so** | [tally.so](https://tally.so) |
 | **Taily AI** | [tailyai.co](https://tailyai.co) |
+| **techdomina** | [techdomina.com](https://techdomina.com) |
 | **Tekpon** | [tekpon.com](https://tekpon.com) |
 | **Submit** | [thataicollection.com](https://www.thataicollection.com) |
 | **The ai Generation** | [theaigeneration.com](https://www.theaigeneration.com) |
