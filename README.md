@@ -245,6 +245,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Top AI Tools Hub** | [topaitoolshub.com](https://www.topaitoolshub.com) |
 | **Top Tools** | [toptools.ai](https://www.toptools.ai) |
 | **Uno Directory** | [uno.directory](https://uno.directory) |
+| **Use AI For** | [use-ai-for.com](https://use-ai-for.com) |
 | **Webspot** | [webspot.app](https://webspot.app) |
 | **WhatstheBigData.com** | [whatsthebigdata.com](https://whatsthebigdata.com) |
 | **What the AI** | [whattheai.tech](https://whattheai.tech) |
