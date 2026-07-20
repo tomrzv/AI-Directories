@@ -107,6 +107,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **AppsHunter** | [appsthunder.com](https://appsthunder.com) |
 | **Ask AI For It** | [askaiforit.com](https://askaiforit.com) |
 | **Aura++** | [auraplusplus.com](https://auraplusplus.com) |
+| **BestAIpicker** | [bestaipicker.com](https://www.bestaipicker.com) |
 | **Best AI To** | [bestaito.com](https://bestaito.com) |
 | **Best of AI** | [bestofai.io](https://bestofai.io) |
 | **Beta List** | [betalist.com](https://betalist.com) |
