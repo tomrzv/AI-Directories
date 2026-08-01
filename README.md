@@ -192,6 +192,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **R-AI Dev** | [r-ai.dev](https://r-ai.dev) |
 | **Resource fyi** | [resource.fyi](https://resource.fyi) |
 | **Saas AI Tools** | [saasaitools.com](https://saasaitools.com) |
+| **SaaSCity** | [saascity.io](https://saascity.io) |
 | **SaasHub** | [saashub.com](https://www.saashub.com) |
 | **Saas Po** | [saaspo.com](https://www.saaspo.com) |
 | **Saas Surf** | [saassurf.com](https://saassurf.com) |
