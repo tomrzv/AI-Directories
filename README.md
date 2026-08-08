@@ -201,6 +201,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Sitelike** | [sitelike.org](https://www.sitelike.org) |
 | **Source Forge** | [sourceforge.net](https://sourceforge.net) |
 | **Spiff.store** | [spiff.store](http://spiff.store) |
+| **StackIndex AI** | [stackindexai.com](https://stackindexai.com) |
 | **Stackshare** | [stackshare.io](https://stackshare.io) |
 | **Stackviv** | [stackviv.ai](https://stackviv.ai) |
 | **Startup88** | [startup88.com](https://startup88.com) |
