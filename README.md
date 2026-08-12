@@ -184,6 +184,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **OpenHunts** | [openhunts.com](https://openhunts.com) |
 | **OpenSaasDirectory** | [opensaas.directory](https://opensaas.directory) |
 | **OpenTools** | [opentools.ai](https://opentools.ai) |
+| **PhyCo** | [phyco.org](https://phyco.org) |
 | **PitchWall** | [pitchwall.co](https://pitchwall.co) |
 | **Post Make** | [postmake.io](https://postmake.io) |
 | **PoweredbyAI** | [poweredbyai.app](https://poweredbyai.app) |
