@@ -73,6 +73,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **aitools.inc** | [aitools.inc](https://aitools.inc) |
 | **AI Tools Love** | [aitools.love](https://aitools.love) |
 | **AI Tools Neil Patel** | [aitools.neilpatel.com](https://aitools.neilpatel.com) |
+| **AI Tools Radar** | [aitoolsradar.com](https://aitoolsradar.com) |
 | **AI Tools Saver** | [aitoolsaver.com](https://www.aitoolsaver.com) |
 | **AI Tools Corner** | [aitoolscorner.com](https://aitoolscorner.com) |
 | **AI tools directory COM** | [aitoolsdirectory.com](https://aitoolsdirectory.com) |
