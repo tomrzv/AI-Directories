@@ -111,6 +111,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Best of AI** | [bestofai.io](https://bestofai.io) |
 | **Beta List** | [betalist.com](https://betalist.com) |
 | **Beyond AI Tools** | [beyondaitools.com](https://www.beyondaitools.com) |
+| **Botstest** | [botstest.com](https://botstest.com/) |
 | **BroUseAI** | [brouseai.com](https://www.brouseai.com) |
 | **Buffer Apps** | [bufferapps.com](https://www.bufferapps.com) |
 | **BuildVoyage** | [buildvoyage.com](https://buildvoyage.com) |
