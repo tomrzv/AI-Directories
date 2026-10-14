@@ -38,6 +38,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | Site Name | Domain |
 |---|---|
 | **1000 Tools** | [1000.tools](https://1000.tools) |
+| **51发现导航 (51 Nav)** | [51cgw9.cc](https://51cgw9.cc) |
 | **AgentHunter** | [agenthunter.io](https://www.agenthunter.io) |
 | **AI Agents Base** | [aiagentsbase.com](https://aiagentsbase.com) |
 | **AI Agents Directory** | [aiagentsdirectory.com](https://aiagentsdirectory.com) |
