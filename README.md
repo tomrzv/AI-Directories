@@ -189,6 +189,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **PoweredbyAI** | [poweredbyai.app](https://poweredbyai.app) |
 | **Product Hunt** | [producthunt.com](https://www.producthunt.com) |
 | **Productivity Tools** | [productivity.directory](https://productivity.directory) |
+| **Public Prompts** | [publicprompts.art](https://www.publicprompts.art) |
 | **R-AI Dev** | [r-ai.dev](https://r-ai.dev) |
 | **Resource fyi** | [resource.fyi](https://resource.fyi) |
 | **Saas AI Tools** | [saasaitools.com](https://saasaitools.com) |
