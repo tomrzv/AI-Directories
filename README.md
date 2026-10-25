@@ -174,6 +174,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **MadGenius** | [madgenius.co](https://madgenius.co) |
 | **Makerlist.io** | [makerlist.io](https://makerlist.io) |
 | **MicroLaunch** | [microlaunch.net](https://microlaunch.net) |
+| **MeetNewAI** | [meetnewai.com](https://meetnewai.com) |
 | **Most Popular AI Tools** | [mostpopularaitools.com](https://mostpopularaitools.com) |
 | **Navfolders.com** | [navfolders.com](https://navfolders.com) |
 | **NavTools AI** | [navtools.ai](https://navtools.ai) |
