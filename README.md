@@ -159,6 +159,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **GPTs Store Top** | [gptsstore.top](https://gptsstore.top) |
 | **GPTs Hunter** | [gptshunter.com](https://www.gptshunter.com) |
 | **Havnai** | [havnai.com](https://havnai.com) |
+| **HOL Plugins** | [hol.org/plugins](https://hol.org/plugins) |
 | **IndieHunt** | [indiehunt.io](https://indiehunt.io) |
 | **Insidr AI Directory** | [insidr.ai](https://www.insidr.ai) |
 | **Intelligent Tools** | [intelligenttools.co](https://intelligenttools.co) |
