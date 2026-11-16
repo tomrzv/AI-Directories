@@ -38,6 +38,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | Site Name | Domain |
 |---|---|
 | **1000 Tools** | [1000.tools](https://1000.tools) |
+| **Add AI Directory** | [addaidirectory.com](https://www.addaidirectory.com) |
 | **AgentHunter** | [agenthunter.io](https://www.agenthunter.io) |
 | **AI Agents Base** | [aiagentsbase.com](https://aiagentsbase.com) |
 | **AI Agents Directory** | [aiagentsdirectory.com](https://aiagentsdirectory.com) |
