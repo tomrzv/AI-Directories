@@ -226,6 +226,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Tool AI** | [toolai.io](https://toolai.io) |
 | **Toolb** | [toolb.dev](https://toolb.dev) |
 | **Tool Directory** | [tooldirectory.ai](https://tooldirectory.ai) |
+| **Tooldex** | [tooldex.app](https://tooldex.app/) |
 | **ToolDirs** | [tooldirs.com](https://tooldirs.com) |
 | **Toolify.ai** | [toolify.ai](https://www.toolify.ai) |
 | **Toolio AI** | [toolio.ai](https://toolio.ai) |
